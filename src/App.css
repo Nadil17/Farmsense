@@ -12,6 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+<<<<<<< HEAD
 .image-analysis-container {
   max-width: 800px;
   margin: 0 auto;
@@ -736,6 +737,9 @@ body {
     min-width: auto;
   }
 }
+=======
+
+>>>>>>> 2e95a70303446ac33c2fc25f4bf54b4caf7e8318
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
